@@ -1,0 +1,6 @@
+{
+  "name": "PolityPrep UPSC",
+  "description": "Indian Polity & Constitution UPSC/SSC Exam Quiz App with AI question generator, Prelims test mode, PYQs, verified constitutional article sources, and performance analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
